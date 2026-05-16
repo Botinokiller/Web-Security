@@ -1,0 +1,149 @@
+@media (max-width:1200px) {
+    .list_1 {
+        gap: 45px;
+    }
+
+    .link {
+        font-size: 26px;
+    }
+
+    .inner_pt2 p {
+        font-size: 27px;
+    }
+
+    .start_btn  {
+        font-size: 27px;
+        width: 180px;
+        height: 72px;
+    }
+
+    .footer {
+        width: 100%;
+        height: 168px;
+        background: #273720;
+    }
+    
+    .inner {}
+
+    .link_1 {
+        
+    }
+    
+    .inner_1 {
+        overflow: hidden;
+        flex-direction: column;
+        align-items: center;
+        gap: 30px;
+    }
+
+    .space_cen_1 {
+        display: none;
+    }
+
+    .discription {
+        max-width: 530px;
+        width: 100%;
+        flex-direction: column;
+        align-items: center;
+        
+    }
+
+    .discription p {
+        font-size: 26px;
+        margin-bottom: 30px;
+    }
+
+    .disc_button {
+        margin: 0 auto;
+    }
+
+
+
+    .parent1 {
+        height: 1200px;
+    
+    }
+
+    .inner_1_pt2 {
+        gap: 60px;
+        margin-top: 59px;
+    }
+
+    .logo-text  {
+        position: absolute;
+        bottom: 70px;
+        font-size: 24px;
+        max-width: 760px;
+        margin: 0 auto;
+    }
+
+    
+    .logo-text p {
+        max-width: 120px;
+
+    }
+
+    .space_sen {
+        display: none;
+    }
+
+    .inner_1_pt2 img {
+        width: 110px;
+        height: 45px;
+    }
+
+    .features {
+        margin-left: 0;
+        max-width: 990px;
+        gap: 100px;
+        margin: 0 auto;
+    }
+
+    .inner_2 p:nth-child(1) {
+        font-size: 20px;
+    }
+
+    .inner_2 h2 {
+        font-size: 70px;
+    }
+
+    .inner_2 p {
+        font-size: 32px;
+        margin-bottom: 25px;
+    }
+
+    .btn_learn_1 {
+        width: 192px;
+        height: 74px;
+        font-size: 25px;
+        font-weight: 450;
+    }
+
+    .script_3 p:nth-child(1) {
+        font-size: 18px;
+    }
+
+    .script_3 h2 {
+        font-size: 70px;
+    }
+
+    .feature_text {
+        font-size: 35px;
+    } 
+
+    .script_3 {
+        font-weight: 450;
+        font-size: 19px;
+    }
+
+
+}
+
+
+@media (max-width:992px) {}
+
+@media (max-width:768px) {}
+
+@media (max-width:576px) {}
+
+@media (max-width:390px) {}
